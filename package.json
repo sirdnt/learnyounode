@@ -1,0 +1,26 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learnyounode",
+  "main": "10_TimeServer.js",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirdnt/learnyounode.git"
+  },
+  "keywords": [
+    "learnyounode"
+  ],
+  "author": "sir.dnt@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirdnt/learnyounode/issues"
+  },
+  "homepage": "https://github.com/sirdnt/learnyounode#readme"
+}
